@@ -1,0 +1,27 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700);
+
+.container-fluid {
+  background-image: url("https://static.pexels.com/photos/20974/pexels-photo.jpg");
+  backround-attachment: fixed;
+  min-width: 700px;
+  height: 1600px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+h1 {
+  font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  margin-top:50px;
+}
+
+.quotes {
+   margin-top: 20px;
+  font-size: 30px;
+  padding-top:20px;
+  padding-bottom:20px;
+  background-color: rgba(f6, f6, f6, 0.5);
+  box-shadow: 1px 5px 33px #888888;
+  margin-bottom:20px;
+  
+}
